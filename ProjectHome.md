@@ -4,12 +4,8 @@ The evolutionary history can be the same or change across regions. It can be eit
 
 Then, each genomic region can be simulated according to a particular substitution model of evolution based on a variety of user-specified distributions. A wide set of parametrical and empirical nucleotide, codon and amino acid substitution models are implemented. For example, SGWE can simulate genome evolution with both coding and non-coding regions, only non-coding regions, only coding regions or only amino acid regions.
 
-`SGWE` requires `CoalEvol` (http://code.google.com/p/coalevol/) and `INDELible` (http://abacus.gene.ucl.ac.uk/software/indelible/).
+`SGWE` requires `CoalEvol` (https://github.com/MiguelArenas/coalevol) and `INDELible` (http://abacus.gene.ucl.ac.uk/software/indelible/).
 A user-friendly GUI is included with the package.
-
-
-#### Download ####
-Details to download SGWE can be found at Wiki/Download\_SGWE (http://code.google.com/p/sgwe-project/wiki/Download_SGWE).
 
 
 #### Citation ####
