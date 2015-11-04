@@ -6,6 +6,9 @@ Then, each genomic region can be simulated according to a particular substitutio
 
 SGWE requires CoalEvol (https://github.com/MiguelArenas/coalevol) and INDELible (http://abacus.gene.ucl.ac.uk/software/indelible/). A user-friendly GUI is included with the package.
 
+To download SGWE I recommend use the Chrome browser.  Then go to releases and click on the desired files (SGWE7.3.5.zip; do not download Source code files because they only include a readme).
+
+
 Citation
 
 Arenas M, Posada D. 2014. Simulation of Genome-wide Evolution under Heterogeneous Substitution models and Complex Multispecies Coalescent Histories. Molecular Biology and Evolution 31 (5): 1295-1301.
